@@ -1,0 +1,58 @@
+.slide-img-container {
+  background: url("../../images/indexBackground.jpg");
+  background-repeat: none;
+  background-position: center;
+  background-size: cover;
+  margin-top: 4.1em;
+  padding-top: 9em;
+  padding-bottom: 9em;
+}
+.main-text-first {
+  color: white;
+  border-top: 2px solid #ff3c00;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  padding-top: 0.5px;
+  font-size: 1.2em;
+}
+.main-text-second {
+  color: white;
+  font-size: 3.7em;
+}
+.main-text-third {
+  color: white;
+  font-size: 1.3em;
+}
+.main-background-button {
+  background-color: #ff3c00;
+  border: #ff3c00;
+  color: white;
+  cursor: pointer;
+  border-radius: 0.2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-right: 2em;
+  padding-left: 2em;
+  transition: 0.3s;
+}
+.main-background-button:hover {
+  background: white;
+  color: #ff3c00;
+}
+.main-background-play-button {
+  display: inline-block;
+  margin-left: 1.7em;
+  color: white;
+  background-color: #ff3c00;
+  border: #ff3c00;
+  font-size: 1.1em;
+  padding: 0.8em 0.9em 0.8em 0.9em;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.main-background-play-button:hover {
+  background-color: white;
+  color: #ff3c00;
+  text-align: center;
+}

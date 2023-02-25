@@ -1,0 +1,26 @@
+.about-company-inner-container {
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+.img1-about-company {
+  width: 80%;
+  z-index: 3;
+}
+.img2-about-company {
+  width: 80%;
+  border: 0.5em solid white;
+  border-bottom-left-radius: 1em;
+  z-index: 5;
+  margin-top: -15em;
+}
+.side-about-h {
+  font-weight: bolder;
+  line-height: 1.5em;
+  font-size: 2em;
+}
+.devider {
+  display: block;
+  width: 7%;
+  border-bottom: 5px solid #ff3c00;
+  margin-top: 1em;
+}

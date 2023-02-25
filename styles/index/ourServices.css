@@ -1,0 +1,44 @@
+.our-services-inner-container {
+  padding-top: 4em;
+  padding-bottom: 4em;
+  background: url("../../images/indexBackground2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: cover;
+}
+.card-container {
+  background-color: white;
+  padding: 1em;
+  border-radius: 0.3em;
+  transition: 0.3s;
+}
+.services-learn-more {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 1.2em;
+  padding-right: 1.2em;
+  background-color: #f4f7fc;
+  transition: 0.3s;
+}
+.services-learn-more-arrow {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 1.2em;
+  padding-right: 1.2em;
+  background-color: #ff3c00;
+  transition: 0.3s;
+}
+.services-learn-more-row:hover > .services-learn-more {
+  background-color: #ff3c00;
+  color: white;
+}
+.services-learn-more-row:hover > .services-learn-more-arrow {
+  background-color: #222222;
+  color: white;
+}
+.service-indicator-active {
+  color: #ff3c00;
+}
+.service-indicator-deactive {
+  color: #767677;
+}

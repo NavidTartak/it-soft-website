@@ -1,0 +1,42 @@
+.font-1-4 {
+  font-size: 1.4em !important;
+}
+.cursor-pointer {
+  cursor: pointer !important;
+}
+.text-theme {
+  color: #ff3c00 !important;
+}
+.font-weight-500 {
+  font-weight: 500 !important;
+}
+.line-height-1-5 {
+  line-height: 1.5em !important;
+}
+.font-3 {
+  font-size: 3em !important;
+}
+.letter-spacing-0-0-5 {
+  letter-spacing: 0.05em;
+}
+.border-radius-0-3 {
+  border-radius: 0.3em;
+}
+.hover-theme {
+  transition: 0.3s;
+}
+.hover-theme:hover {
+  color: #ff3c00;
+}
+.cursor-default {
+  cursor: default !important;
+}
+.m-0-5-auto {
+  margin: 0.5em auto;
+}
+.m-1-auto {
+  margin: 1em auto;
+}
+.m-2-auto {
+  margin: 2em auto;
+}
